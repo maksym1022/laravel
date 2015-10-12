@@ -1,0 +1,4 @@
+[21-Sep-2015 07:19:06 UTC] PHP Fatal error:  Class 'Managers' not found in /home/polaris777/public_html/cms/app/controllers/UsersController.php on line 90
+[23-Sep-2015 07:02:24 UTC] PHP Fatal error:  Class 'Channel' not found in /home/polaris777/public_html/cms/app/controllers/ChannelsController.php on line 23
+[23-Sep-2015 07:03:01 UTC] PHP Fatal error:  Class 'Channel' not found in /home/polaris777/public_html/cms/app/controllers/ChannelsController.php on line 23
+[24-Sep-2015 08:40:03 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/polaris777/public_html/cms/app/controllers/UsersController.php on line 283
